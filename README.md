@@ -7,3 +7,4 @@ The paper describing the construction of the augmented dataset and usage guide c
 
 The bounding box annotations are provided as a comma-separated values file: [augmented_rspect.csv](https://github.com/dila-ai/Augmented_RSPECT/blob/main/augmented_rspect.csv) 
 
+Terms of use: If you use any of the data provided on this website in your research, publications, or other work, you must properly cite our paper as the source of the data.
